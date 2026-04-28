@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-04-28 15:54">
+  <shop>
+    <name>Ремонт бытовой техники</name>
+    <company>Сервисный центр</company>
+    <url>https://yandex.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2">Бытовая техника для дома</category>
+    </categories>
+    <offers>
+      <offer id="2001" available="true">
+        <name>Газовая плита</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Газовая плита</description>
+      </offer>
+      <offer id="2002" available="true">
+        <name>Электрическая плита</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая плита</description>
+      </offer>
+      <offer id="2003" available="true">
+        <name>Индукционная плита</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Индукционная плита</description>
+      </offer>
+      <offer id="2004" available="true">
+        <name>Духовой шкаф (электрический)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Духовой шкаф (электрический)</description>
+      </offer>
+      <offer id="2005" available="true">
+        <name>Газовый духовой шкаф</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Газовый духовой шкаф</description>
+      </offer>
+      <offer id="2006" available="true">
+        <name>Пароварка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Пароварка</description>
+      </offer>
+      <offer id="2007" available="true">
+        <name>Скороварка электрическая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Скороварка электрическая</description>
+      </offer>
+      <offer id="2008" available="true">
+        <name>Аэрогриль</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Аэрогриль</description>
+      </offer>
+      <offer id="2009" available="true">
+        <name>Фритюрница</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фритюрница</description>
+      </offer>
+      <offer id="2010" available="true">
+        <name>Электрогриль</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрогриль</description>
+      </offer>
+      <offer id="2011" available="true">
+        <name>Сэндвичница / вафельница</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сэндвичница / вафельница</description>
+      </offer>
+      <offer id="2012" available="true">
+        <name>Хлебопечка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Хлебопечка</description>
+      </offer>
+      <offer id="2013" available="true">
+        <name>Тостер</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Тостер</description>
+      </offer>
+      <offer id="2014" available="true">
+        <name>Электрочайник</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрочайник</description>
+      </offer>
+      <offer id="2015" available="true">
+        <name>Термопот</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Термопот</description>
+      </offer>
+      <offer id="2016" available="true">
+        <name>Кофеварка (капельная)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кофеварка (капельная)</description>
+      </offer>
+      <offer id="2017" available="true">
+        <name>Кофемашина (рожковая)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кофемашина (рожковая)</description>
+      </offer>
+      <offer id="2018" available="true">
+        <name>Капсульная кофемашина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Капсульная кофемашина</description>
+      </offer>
+      <offer id="2019" available="true">
+        <name>Чайник для варки (турка электрическая)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Чайник для варки (турка электрическая)</description>
+      </offer>
+      <offer id="2020" available="true">
+        <name>Йогуртница</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Йогуртница</description>
+      </offer>
+      <offer id="2021" available="true">
+        <name>Яйцеварка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Яйцеварка</description>
+      </offer>
+      <offer id="2022" available="true">
+        <name>Рисоварка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Рисоварка</description>
+      </offer>
+      <offer id="2023" available="true">
+        <name>Вафельница для венских вафель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вафельница для венских вафель</description>
+      </offer>
+      <offer id="2024" available="true">
+        <name>Электрошашлычница</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрошашлычница</description>
+      </offer>
+      <offer id="2025" available="true">
+        <name>Коптильня электрическая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Коптильня электрическая</description>
+      </offer>
+      <offer id="2026" available="true">
+        <name>Сушилка для овощей и фруктов</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сушилка для овощей и фруктов</description>
+      </offer>
+      <offer id="2027" available="true">
+        <name>Электрическая сковорода</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая сковорода</description>
+      </offer>
+      <offer id="2028" available="true">
+        <name>Фондюшница</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фондюшница</description>
+      </offer>
+      <offer id="2029" available="true">
+        <name>Мультиварка-скороварка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Мультиварка-скороварка</description>
+      </offer>
+      <offer id="2030" available="true">
+        <name>Су-вид (Sous-vide)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Су-вид (Sous-vide)</description>
+      </offer>
+      <offer id="2031" available="true">
+        <name>Блендер погружной</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Блендер погружной</description>
+      </offer>
+      <offer id="2032" available="true">
+        <name>Блендер стационарный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Блендер стационарный</description>
+      </offer>
+      <offer id="2033" available="true">
+        <name>Миксер ручной</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Миксер ручной</description>
+      </offer>
+      <offer id="2034" available="true">
+        <name>Миксер планетарный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Миксер планетарный</description>
+      </offer>
+      <offer id="2035" available="true">
+        <name>Кухонный комбайн</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кухонный комбайн</description>
+      </offer>
+      <offer id="2036" available="true">
+        <name>Мясорубка электрическая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Мясорубка электрическая</description>
+      </offer>
+      <offer id="2037" available="true">
+        <name>Соковыжималка центробежная</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Соковыжималка центробежная</description>
+      </offer>
+      <offer id="2038" available="true">
+        <name>Соковыжималка шнековая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Соковыжималка шнековая</description>
+      </offer>
+      <offer id="2039" available="true">
+        <name>Соковыжималка для цитрусовых</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Соковыжималка для цитрусовых</description>
+      </offer>
+      <offer id="2040" available="true">
+        <name>Слайсер (ломтерезка)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Слайсер (ломтерезка)</description>
+      </offer>
+      <offer id="2041" available="true">
+        <name>Овощерезка электрическая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Овощерезка электрическая</description>
+      </offer>
+      <offer id="2042" available="true">
+        <name>Кофемолка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кофемолка</description>
+      </offer>
+      <offer id="2043" available="true">
+        <name>Специи-мельница электрическая</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Специи-мельница электрическая</description>
+      </offer>
+      <offer id="2044" available="true">
+        <name>Измельчитель пищевых отходов (диспоузер)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Измельчитель пищевых отходов (диспоузер)</description>
+      </offer>
+      <offer id="2045" available="true">
+        <name>Вакуумный упаковщик</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вакуумный упаковщик</description>
+      </offer>
+      <offer id="2046" available="true">
+        <name>Тестомес</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Тестомес</description>
+      </offer>
+      <offer id="2047" available="true">
+        <name>Машина для пасты</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Машина для пасты</description>
+      </offer>
+      <offer id="2048" available="true">
+        <name>Мороженица</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Мороженица</description>
+      </offer>
+      <offer id="2049" available="true">
+        <name>Измельчитель льда</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Измельчитель льда</description>
+      </offer>
+      <offer id="2050" available="true">
+        <name>Холодильник однокамерный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Холодильник однокамерный</description>
+      </offer>
+      <offer id="2051" available="true">
+        <name>Холодильник двухкамерный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Холодильник двухкамерный</description>
+      </offer>
+      <offer id="2052" available="true">
+        <name>Холодильник Side-by-Side</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Холодильник Side-by-Side</description>
+      </offer>
+      <offer id="2053" available="true">
+        <name>Морозильная камера (ларь)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Морозильная камера (ларь)</description>
+      </offer>
+      <offer id="2054" available="true">
+        <name>Морозильник шкаф</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Морозильник шкаф</description>
+      </offer>
+      <offer id="2055" available="true">
+        <name>Винный холодильник</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Винный холодильник</description>
+      </offer>
+      <offer id="2056" available="true">
+        <name>Компрессорный автохолодильник</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Компрессорный автохолодильник</description>
+      </offer>
+      <offer id="2057" available="true">
+        <name>Стиральная машина автомат</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Стиральная машина автомат</description>
+      </offer>
+      <offer id="2058" available="true">
+        <name>Стиральная машина полуавтомат</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Стиральная машина полуавтомат</description>
+      </offer>
+      <offer id="2059" available="true">
+        <name>Сушильная машина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сушильная машина</description>
+      </offer>
+      <offer id="2060" available="true">
+        <name>Стирально-сушильная машина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Стирально-сушильная машина</description>
+      </offer>
+      <offer id="2061" available="true">
+        <name>Утюг паровой</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Утюг паровой</description>
+      </offer>
+      <offer id="2062" available="true">
+        <name>Утюг с парогенератором</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Утюг с парогенератором</description>
+      </offer>
+      <offer id="2063" available="true">
+        <name>Паровой отпариватель вертикальный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Паровой отпариватель вертикальный</description>
+      </offer>
+      <offer id="2064" available="true">
+        <name>Гладильный пресс (каландр)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Гладильный пресс (каландр)</description>
+      </offer>
+      <offer id="2065" available="true">
+        <name>Швейная машина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Швейная машина</description>
+      </offer>
+      <offer id="2066" available="true">
+        <name>Оверлок</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Оверлок</description>
+      </offer>
+      <offer id="2067" available="true">
+        <name>Вышивальная машина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вышивальная машина</description>
+      </offer>
+      <offer id="2068" available="true">
+        <name>Машинка для стрижки катышков</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Машинка для стрижки катышков</description>
+      </offer>
+      <offer id="2069" available="true">
+        <name>Паровая щётка для одежды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Паровая щётка для одежды</description>
+      </offer>
+      <offer id="2070" available="true">
+        <name>Пылесос вертикальный (веник)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Пылесос вертикальный (веник)</description>
+      </offer>
+      <offer id="2071" available="true">
+        <name>Пылесос горизонтальный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Пылесос горизонтальный</description>
+      </offer>
+      <offer id="2072" available="true">
+        <name>Пылесос-контейнер (без мешка)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Пылесос-контейнер (без мешка)</description>
+      </offer>
+      <offer id="2073" available="true">
+        <name>Моющий пылесос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Моющий пылесос</description>
+      </offer>
+      <offer id="2074" available="true">
+        <name>Парогенератор для уборки</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Парогенератор для уборки</description>
+      </offer>
+      <offer id="2075" available="true">
+        <name>Паровая швабра</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Паровая швабра</description>
+      </offer>
+      <offer id="2076" available="true">
+        <name>Электрошвабра (влажная уборка)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрошвабра (влажная уборка)</description>
+      </offer>
+      <offer id="2077" available="true">
+        <name>Полотёр электрический</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Полотёр электрический</description>
+      </offer>
+      <offer id="2078" available="true">
+        <name>Мойка высокого давления</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Мойка высокого давления</description>
+      </offer>
+      <offer id="2079" available="true">
+        <name>Пылесборник для золы</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Пылесборник для золы</description>
+      </offer>
+      <offer id="2080" available="true">
+        <name>Промышленный пылесос (домашний)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Промышленный пылесос (домашний)</description>
+      </offer>
+      <offer id="2081" available="true">
+        <name>Кондиционер сплит-система</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кондиционер сплит-система</description>
+      </offer>
+      <offer id="2082" available="true">
+        <name>Мобильный кондиционер</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Мобильный кондиционер</description>
+      </offer>
+      <offer id="2083" available="true">
+        <name>Оконный кондиционер</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Оконный кондиционер</description>
+      </offer>
+      <offer id="2084" available="true">
+        <name>Тепловой насос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Тепловой насос</description>
+      </offer>
+      <offer id="2085" available="true">
+        <name>Электрический конвектор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрический конвектор</description>
+      </offer>
+      <offer id="2086" available="true">
+        <name>Масляный радиатор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Масляный радиатор</description>
+      </offer>
+      <offer id="2087" available="true">
+        <name>Инфракрасный обогреватель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Инфракрасный обогреватель</description>
+      </offer>
+      <offer id="2088" available="true">
+        <name>Тепловентилятор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Тепловентилятор</description>
+      </offer>
+      <offer id="2089" available="true">
+        <name>Тепловая пушка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Тепловая пушка</description>
+      </offer>
+      <offer id="2090" available="true">
+        <name>Электрический тёплый пол</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрический тёплый пол</description>
+      </offer>
+      <offer id="2091" available="true">
+        <name>Вентилятор напольный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вентилятор напольный</description>
+      </offer>
+      <offer id="2092" available="true">
+        <name>Вентилятор настольный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вентилятор настольный</description>
+      </offer>
+      <offer id="2093" available="true">
+        <name>Потолочный вентилятор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Потолочный вентилятор</description>
+      </offer>
+      <offer id="2094" available="true">
+        <name>Вытяжка кухонная</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вытяжка кухонная</description>
+      </offer>
+      <offer id="2095" available="true">
+        <name>Вентиляционная установка (рекуператор)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вентиляционная установка (рекуператор)</description>
+      </offer>
+      <offer id="2096" available="true">
+        <name>Увлажнитель воздуха</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Увлажнитель воздуха</description>
+      </offer>
+      <offer id="2097" available="true">
+        <name>Ультразвуковой увлажнитель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультразвуковой увлажнитель</description>
+      </offer>
+      <offer id="2098" available="true">
+        <name>Осушитель воздуха</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Осушитель воздуха</description>
+      </offer>
+      <offer id="2099" available="true">
+        <name>Очиститель воздуха (HEPA)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Очиститель воздуха (HEPA)</description>
+      </offer>
+      <offer id="2100" available="true">
+        <name>Ионизатор воздуха</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ионизатор воздуха</description>
+      </offer>
+      <offer id="2101" available="true">
+        <name>Озонатор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Озонатор</description>
+      </offer>
+      <offer id="2102" available="true">
+        <name>Бактерицидный рециркулятор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Бактерицидный рециркулятор</description>
+      </offer>
+      <offer id="2103" available="true">
+        <name>Климатический комплекс</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Климатический комплекс</description>
+      </offer>
+      <offer id="2104" available="true">
+        <name>Электрический водонагреватель (бойлер)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрический водонагреватель (бойлер)</description>
+      </offer>
+      <offer id="2105" available="true">
+        <name>Проточный водонагреватель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Проточный водонагреватель</description>
+      </offer>
+      <offer id="2106" available="true">
+        <name>Газовый водонагреватель (колонка)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Газовый водонагреватель (колонка)</description>
+      </offer>
+      <offer id="2107" available="true">
+        <name>Насосная станция</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Насосная станция</description>
+      </offer>
+      <offer id="2108" available="true">
+        <name>Погружной насос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Погружной насос</description>
+      </offer>
+      <offer id="2109" available="true">
+        <name>Поверхностный насос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Поверхностный насос</description>
+      </offer>
+      <offer id="2110" available="true">
+        <name>Фильтр-кувшин (электронный)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фильтр-кувшин (электронный)</description>
+      </offer>
+      <offer id="2111" available="true">
+        <name>Система обратного осмоса</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Система обратного осмоса</description>
+      </offer>
+      <offer id="2112" available="true">
+        <name>Диспенсер для воды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Диспенсер для воды</description>
+      </offer>
+      <offer id="2113" available="true">
+        <name>Кулер для воды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кулер для воды</description>
+      </offer>
+      <offer id="2114" available="true">
+        <name>Умягчитель воды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Умягчитель воды</description>
+      </offer>
+      <offer id="2115" available="true">
+        <name>Электробритва</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электробритва</description>
+      </offer>
+      <offer id="2116" available="true">
+        <name>Машинка для стрижки волос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Машинка для стрижки волос</description>
+      </offer>
+      <offer id="2117" available="true">
+        <name>Триммер для бороды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Триммер для бороды</description>
+      </offer>
+      <offer id="2118" available="true">
+        <name>Фен для волос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фен для волос</description>
+      </offer>
+      <offer id="2119" available="true">
+        <name>Щипцы для завивки</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Щипцы для завивки</description>
+      </offer>
+      <offer id="2120" available="true">
+        <name>Выпрямитель для волос</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Выпрямитель для волос</description>
+      </offer>
+      <offer id="2121" available="true">
+        <name>Эпилятор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Эпилятор</description>
+      </offer>
+      <offer id="2122" available="true">
+        <name>Электрическая зубная щётка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая зубная щётка</description>
+      </offer>
+      <offer id="2123" available="true">
+        <name>Ирригатор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ирригатор</description>
+      </offer>
+      <offer id="2124" available="true">
+        <name>Ультразвуковая зубная щётка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультразвуковая зубная щётка</description>
+      </offer>
+      <offer id="2125" available="true">
+        <name>Массажёр электрический</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Массажёр электрический</description>
+      </offer>
+      <offer id="2126" available="true">
+        <name>Перкуссионный массажёр</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Перкуссионный массажёр</description>
+      </offer>
+      <offer id="2127" available="true">
+        <name>Вибромассажное кресло</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Вибромассажное кресло</description>
+      </offer>
+      <offer id="2128" available="true">
+        <name>Массажная подушка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Массажная подушка</description>
+      </offer>
+      <offer id="2129" available="true">
+        <name>Массажная накидка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Массажная накидка</description>
+      </offer>
+      <offer id="2130" available="true">
+        <name>Гидромассажная ванночка для ног</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Гидромассажная ванночка для ног</description>
+      </offer>
+      <offer id="2131" available="true">
+        <name>Ингалятор (небулайзер)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ингалятор (небулайзер)</description>
+      </offer>
+      <offer id="2132" available="true">
+        <name>Аппарат CPAP (для сна)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Аппарат CPAP (для сна)</description>
+      </offer>
+      <offer id="2133" available="true">
+        <name>Солярий домашний</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Солярий домашний</description>
+      </offer>
+      <offer id="2134" available="true">
+        <name>Лампа для фототерапии (SAD)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Лампа для фототерапии (SAD)</description>
+      </offer>
+      <offer id="2135" available="true">
+        <name>Аппарат для дарсонвализации</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Аппарат для дарсонвализации</description>
+      </offer>
+      <offer id="2136" available="true">
+        <name>Лазерный эпилятор домашний</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Лазерный эпилятор домашний</description>
+      </offer>
+      <offer id="2137" available="true">
+        <name>Фотоэпилятор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фотоэпилятор</description>
+      </offer>
+      <offer id="2138" available="true">
+        <name>Аппарат для RF-лифтинга</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Аппарат для RF-лифтинга</description>
+      </offer>
+      <offer id="2139" available="true">
+        <name>Ультразвуковой скрабер</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультразвуковой скрабер</description>
+      </offer>
+      <offer id="2140" available="true">
+        <name>Аппарат для микротоков (косметический)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Аппарат для микротоков (косметический)</description>
+      </offer>
+      <offer id="2141" available="true">
+        <name>Поварёшка-стерилизатор УФ</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Поварёшка-стерилизатор УФ</description>
+      </offer>
+      <offer id="2142" available="true">
+        <name>Умный выключатель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Умный выключатель</description>
+      </offer>
+      <offer id="2143" available="true">
+        <name>Умный диммер</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Умный диммер</description>
+      </offer>
+      <offer id="2144" available="true">
+        <name>Электрощит (домашний)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрощит (домашний)</description>
+      </offer>
+      <offer id="2145" available="true">
+        <name>Стабилизатор напряжения</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Стабилизатор напряжения</description>
+      </offer>
+      <offer id="2146" available="true">
+        <name>Сетевой фильтр (пилот)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сетевой фильтр (пилот)</description>
+      </offer>
+      <offer id="2147" available="true">
+        <name>Генератор бензиновый</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Генератор бензиновый</description>
+      </offer>
+      <offer id="2148" available="true">
+        <name>Инверторный генератор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Инверторный генератор</description>
+      </offer>
+      <offer id="2149" available="true">
+        <name>Домофон аналоговый</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Домофон аналоговый</description>
+      </offer>
+      <offer id="2150" available="true">
+        <name>Видеодомофон</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Видеодомофон</description>
+      </offer>
+      <offer id="2151" available="true">
+        <name>Охранная сигнализация</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Охранная сигнализация</description>
+      </offer>
+      <offer id="2152" available="true">
+        <name>Датчик дыма</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Датчик дыма</description>
+      </offer>
+      <offer id="2153" available="true">
+        <name>Датчик угарного газа</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Датчик угарного газа</description>
+      </offer>
+      <offer id="2154" available="true">
+        <name>Датчик протечки воды</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Датчик протечки воды</description>
+      </offer>
+      <offer id="2155" available="true">
+        <name>Датчик движения (ИК)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Датчик движения (ИК)</description>
+      </offer>
+      <offer id="2156" available="true">
+        <name>Сейф электронный</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сейф электронный</description>
+      </offer>
+      <offer id="2157" available="true">
+        <name>Акустическая система (Hi-Fi)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Акустическая система (Hi-Fi)</description>
+      </offer>
+      <offer id="2158" available="true">
+        <name>Домашний кинотеатр (ресивер + акустика)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Домашний кинотеатр (ресивер + акустика)</description>
+      </offer>
+      <offer id="2159" available="true">
+        <name>Виниловый проигрыватель</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Виниловый проигрыватель</description>
+      </offer>
+      <offer id="2160" available="true">
+        <name>Кассетный магнитофон</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Кассетный магнитофон</description>
+      </offer>
+      <offer id="2161" available="true">
+        <name>Посудомоечная машина</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Посудомоечная машина</description>
+      </offer>
+      <offer id="2162" available="true">
+        <name>Измельчитель льда (отдельный)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Измельчитель льда (отдельный)</description>
+      </offer>
+      <offer id="2163" available="true">
+        <name>Электрическая точилка для ножей</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая точилка для ножей</description>
+      </offer>
+      <offer id="2164" available="true">
+        <name>Ультразвуковая мойка (для украшений)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультразвуковая мойка (для украшений)</description>
+      </offer>
+      <offer id="2165" available="true">
+        <name>Сушилка для обуви</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Сушилка для обуви</description>
+      </offer>
+      <offer id="2166" available="true">
+        <name>Электрическая грелка (одеяло с подогревом)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая грелка (одеяло с подогревом)</description>
+      </offer>
+      <offer id="2167" available="true">
+        <name>Электрическая простынь</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая простынь</description>
+      </offer>
+      <offer id="2168" available="true">
+        <name>Солевая лампа с подсветкой (электро)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Солевая лампа с подсветкой (электро)</description>
+      </offer>
+      <offer id="2169" available="true">
+        <name>Фумигатор</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Фумигатор</description>
+      </offer>
+      <offer id="2170" available="true">
+        <name>Ультразвуковой отпугиватель грызунов</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультразвуковой отпугиватель грызунов</description>
+      </offer>
+      <offer id="2171" available="true">
+        <name>Ультрафиолетовая лампа (кварцевая)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Ультрафиолетовая лампа (кварцевая)</description>
+      </offer>
+      <offer id="2172" available="true">
+        <name>Стерилизатор для посуды (UV)</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Стерилизатор для посуды (UV)</description>
+      </offer>
+      <offer id="2173" available="true">
+        <name>Электрическая мухоловка</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Электрическая мухоловка</description>
+      </offer>
+      <offer id="2174" available="true">
+        <name>Воздухоочиститель-ионизатор для авто</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Воздухоочиститель-ионизатор для авто</description>
+      </offer>
+      <offer id="2175" available="true">
+        <name>Шредер (уничтожитель бумаг) домашний</name>
+        <categoryId>2</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт: Шредер (уничтожитель бумаг) домашний</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
