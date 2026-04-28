@@ -1,0 +1,2766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-28 20:41">
+  <shop>
+    <name>Ремсити36</name>
+    <company>Сервисный центр Ремсити36</company>
+    <url>https://remsity36.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Ремонт техники и электроники</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Ремонт газовой плиты</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт газовой плиты в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="2" available="true">
+        <name>Ремонт электрической плиты</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрической плиты в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="3" available="true">
+        <name>Ремонт индукционной плиты</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт индукционной плиты в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="4" available="true">
+        <name>Ремонт духового шкафа (электрического)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт духового шкафа (электрического) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="5" available="true">
+        <name>Ремонт газового духового шкафа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт газового духового шкафа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="6" available="true">
+        <name>Ремонт пароварки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пароварки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="7" available="true">
+        <name>Ремонт скороварки электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт скороварки электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="8" available="true">
+        <name>Ремонт аэрогриля</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аэрогриля в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="9" available="true">
+        <name>Ремонт фритюрницы</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фритюрницы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="10" available="true">
+        <name>Ремонт электрогриля</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрогриля в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="11" available="true">
+        <name>Ремонт сэндвичницы / вафельницы</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сэндвичницы / вафельницы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="12" available="true">
+        <name>Ремонт хлебопечки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт хлебопечки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="13" available="true">
+        <name>Ремонт тостера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт тостера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="14" available="true">
+        <name>Ремонт электрочайника</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрочайника в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="15" available="true">
+        <name>Ремонт термопота</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт термопота в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="16" available="true">
+        <name>Ремонт кофеварки (капельной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кофеварки (капельной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="17" available="true">
+        <name>Ремонт кофемашины (рожковой)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кофемашины (рожковой) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="18" available="true">
+        <name>Ремонт капсульной кофемашины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт капсульной кофемашины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="19" available="true">
+        <name>Ремонт чайника для варки (турки электрической)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт чайника для варки (турки электрической) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="20" available="true">
+        <name>Ремонт йогуртницы</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт йогуртницы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="21" available="true">
+        <name>Ремонт яйцеварки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт яйцеварки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="22" available="true">
+        <name>Ремонт рисоварки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт рисоварки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="23" available="true">
+        <name>Ремонт вафельницы для венских вафель</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вафельницы для венских вафель в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="24" available="true">
+        <name>Ремонт электрошашлычницы</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрошашлычницы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="25" available="true">
+        <name>Ремонт коптильни электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт коптильни электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="26" available="true">
+        <name>Ремонт сушилки для овощей и фруктов</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сушилки для овощей и фруктов в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="27" available="true">
+        <name>Ремонт электрической сковороды</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрической сковороды в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="28" available="true">
+        <name>Ремонт фондюшницы электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фондюшницы электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="29" available="true">
+        <name>Ремонт блинницы электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт блинницы электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="30" available="true">
+        <name>Ремонт аппарата для сахарной ваты</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для сахарной ваты в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="31" available="true">
+        <name>Ремонт аппарата для попкорна</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для попкорна в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="32" available="true">
+        <name>Ремонт маринатора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт маринатора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="33" available="true">
+        <name>Ремонт мороженицы</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мороженицы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="34" available="true">
+        <name>Ремонт микроволновой печи (СВЧ)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт микроволновой печи (СВЧ) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="35" available="true">
+        <name>Ремонт микроволновой печи с грилем</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт микроволновой печи с грилем в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="36" available="true">
+        <name>Ремонт конвекционной печи</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт конвекционной печи в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="37" available="true">
+        <name>Ремонт мини-печи (ростера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мини-печи (ростера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="38" available="true">
+        <name>Ремонт посудомоечной машины (узкой)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт посудомоечной машины (узкой) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="39" available="true">
+        <name>Ремонт посудомоечной машины (полноразмерной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт посудомоечной машины (полноразмерной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="40" available="true">
+        <name>Ремонт настольной посудомоечной машины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт настольной посудомоечной машины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="41" available="true">
+        <name>Ремонт измельчителя пищевых отходов (диспоузера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт измельчителя пищевых отходов (диспоузера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="42" available="true">
+        <name>Ремонт вытяжки кухонной (подвесной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вытяжки кухонной (подвесной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="43" available="true">
+        <name>Ремонт вытяжки кухонной (купольной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вытяжки кухонной (купольной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="44" available="true">
+        <name>Ремонт вытяжки кухонной (островной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вытяжки кухонной (островной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="45" available="true">
+        <name>Ремонт винного шкафа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт винного шкафа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="46" available="true">
+        <name>Ремонт ледогенератора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ледогенератора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="47" available="true">
+        <name>Ремонт холодильника (однокамерного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт холодильника (однокамерного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="48" available="true">
+        <name>Ремонт холодильника (двухкамерного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт холодильника (двухкамерного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="49" available="true">
+        <name>Ремонт холодильника Side-by-Side</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт холодильника Side-by-Side в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="50" available="true">
+        <name>Ремонт морозильного ларя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт морозильного ларя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="51" available="true">
+        <name>Ремонт морозильной камеры (вертикальной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт морозильной камеры (вертикальной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="52" available="true">
+        <name>Ремонт стиральной машины (фронтальной загрузки)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стиральной машины (фронтальной загрузки) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="53" available="true">
+        <name>Ремонт стиральной машины (вертикальной загрузки)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стиральной машины (вертикальной загрузки) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="54" available="true">
+        <name>Ремонт стиральной машины с сушкой</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стиральной машины с сушкой в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="55" available="true">
+        <name>Ремонт сушильной машины для белья</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сушильной машины для белья в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="56" available="true">
+        <name>Ремонт центрифуги для белья</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт центрифуги для белья в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="57" available="true">
+        <name>Ремонт стиральной машины полуавтомат</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стиральной машины полуавтомат в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="58" available="true">
+        <name>Ремонт ультразвуковой стиральной машины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ультразвуковой стиральной машины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="59" available="true">
+        <name>Ремонт утюга (проводного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт утюга (проводного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="60" available="true">
+        <name>Ремонт утюга с парогенератором</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт утюга с парогенератором в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="61" available="true">
+        <name>Ремонт гладильной системы</name>
+        <price>600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт гладильной системы в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="62" available="true">
+        <name>Ремонт отпаривателя для одежды (ручного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт отпаривателя для одежды (ручного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="63" available="true">
+        <name>Ремонт отпаривателя для одежды (напольного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт отпаривателя для одежды (напольного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="64" available="true">
+        <name>Ремонт парового манекена</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт парового манекена в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="65" available="true">
+        <name>Ремонт пресса для глажки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пресса для глажки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="66" available="true">
+        <name>Ремонт пылесоса (с мешком)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пылесоса (с мешком) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="67" available="true">
+        <name>Ремонт пылесоса (без мешка / циклонного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пылесоса (без мешка / циклонного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="68" available="true">
+        <name>Ремонт пылесоса с аквафильтром</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пылесоса с аквафильтром в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="69" available="true">
+        <name>Ремонт моющего пылесоса</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт моющего пылесоса в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="70" available="true">
+        <name>Ремонт вертикального пылесоса (аккумуляторного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вертикального пылесоса (аккумуляторного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="71" available="true">
+        <name>Ремонт робота-пылесоса</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт робота-пылесоса в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="72" available="true">
+        <name>Ремонт робота-мойщика окон</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт робота-мойщика окон в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="73" available="true">
+        <name>Ремонт пароочистителя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пароочистителя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="74" available="true">
+        <name>Ремонт электрошвабры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрошвабры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="75" available="true">
+        <name>Ремонт стеклоочистителя (аккумуляторного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стеклоочистителя (аккумуляторного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="76" available="true">
+        <name>Ремонт вентилятора (настольного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вентилятора (настольного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="77" available="true">
+        <name>Ремонт вентилятора (напольного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вентилятора (напольного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="78" available="true">
+        <name>Ремонт вентилятора (безлопастного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вентилятора (безлопастного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="79" available="true">
+        <name>Ремонт кондиционера (мобильного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кондиционера (мобильного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="80" available="true">
+        <name>Ремонт сплит-системы (внутреннего блока)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сплит-системы (внутреннего блока) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="81" available="true">
+        <name>Ремонт сплит-системы (внешнего блока)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сплит-системы (внешнего блока) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="82" available="true">
+        <name>Ремонт очистителя воздуха</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт очистителя воздуха в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="83" available="true">
+        <name>Ремонт увлажнителя воздуха (ультразвукового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт увлажнителя воздуха (ультразвукового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="84" available="true">
+        <name>Ремонт увлажнителя воздуха (парового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт увлажнителя воздуха (парового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="85" available="true">
+        <name>Ремонт мойки воздуха</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мойки воздуха в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="86" available="true">
+        <name>Ремонт осушителя воздуха</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт осушителя воздуха в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="87" available="true">
+        <name>Ремонт ионизатора воздуха</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ионизатора воздуха в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="88" available="true">
+        <name>Ремонт озонатора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт озонатора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="89" available="true">
+        <name>Ремонт электрического обогревателя (масляного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрического обогревателя (масляного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="90" available="true">
+        <name>Ремонт конвектора электрического</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт конвектора электрического в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="91" available="true">
+        <name>Ремонт тепловентилятора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт тепловентилятора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="92" available="true">
+        <name>Ремонт инфракрасного обогревателя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт инфракрасного обогревателя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="93" available="true">
+        <name>Ремонт микатермического обогревателя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт микатермического обогревателя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="94" available="true">
+        <name>Ремонт электрокамина</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрокамина в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="95" available="true">
+        <name>Ремонт водонагревателя (проточного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт водонагревателя (проточного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="96" available="true">
+        <name>Ремонт водонагревателя (накопительного / бойлера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт водонагревателя (накопительного / бойлера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="97" available="true">
+        <name>Ремонт кулера для воды</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кулера для воды в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="98" available="true">
+        <name>Ремонт помпы для воды (электрической)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт помпы для воды (электрической) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="99" available="true">
+        <name>Ремонт фильтра для воды (системы обратного осмоса)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фильтра для воды (системы обратного осмоса) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="100" available="true">
+        <name>Ремонт мясорубки электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мясорубки электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="101" available="true">
+        <name>Ремонт кухонного комбайна</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кухонного комбайна в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="102" available="true">
+        <name>Ремонт планетарного миксера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт планетарного миксера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="103" available="true">
+        <name>Ремонт блендера (погружного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт блендера (погружного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="104" available="true">
+        <name>Ремонт блендера (стационарного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт блендера (стационарного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="105" available="true">
+        <name>Ремонт миксера (ручного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт миксера (ручного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="106" available="true">
+        <name>Ремонт измельчителя кухонного</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт измельчителя кухонного в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="107" available="true">
+        <name>Ремонт кофемолки электрической</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт кофемолки электрической в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="108" available="true">
+        <name>Ремонт соковыжималки (центробежной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт соковыжималки (центробежной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="109" available="true">
+        <name>Ремонт соковыжималки (шнековой)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт соковыжималки (шнековой) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="110" available="true">
+        <name>Ремонт соковыжималки для цитрусовых</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт соковыжималки для цитрусовых в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="111" available="true">
+        <name>Ремонт электрической тёрки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрической тёрки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="112" available="true">
+        <name>Ремонт вакуумного упаковщика</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вакуумного упаковщика в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="113" available="true">
+        <name>Ремонт весов кухонных</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт весов кухонных в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="114" available="true">
+        <name>Ремонт электрического ножа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрического ножа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="115" available="true">
+        <name>Ремонт точилки для ножей (электрической)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт точилки для ножей (электрической) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="116" available="true">
+        <name>Ремонт машинки для стрижки волос</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт машинки для стрижки волос в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="117" available="true">
+        <name>Ремонт триммера для бороды</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт триммера для бороды в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="118" available="true">
+        <name>Ремонт фена для волос</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фена для волос в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="119" available="true">
+        <name>Ремонт стайлера / щипцов для завивки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стайлера / щипцов для завивки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="120" available="true">
+        <name>Ремонт выпрямителя для волос (утюжка)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт выпрямителя для волос (утюжка) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="121" available="true">
+        <name>Ремонт электробритвы (сеточной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электробритвы (сеточной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="122" available="true">
+        <name>Ремонт электробритвы (роторной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электробритвы (роторной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="123" available="true">
+        <name>Ремонт эпилятора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт эпилятора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="124" available="true">
+        <name>Ремонт электрической зубной щетки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрической зубной щетки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="125" available="true">
+        <name>Ремонт ирригатора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ирригатора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="126" available="true">
+        <name>Ремонт весов напольных</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт весов напольных в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="127" available="true">
+        <name>Ремонт массажера (ручного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт массажера (ручного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="128" available="true">
+        <name>Ремонт массажной подушки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт массажной подушки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="129" available="true">
+        <name>Ремонт массажной накидки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт массажной накидки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="130" available="true">
+        <name>Ремонт гидромассажной ванночки для ног</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт гидромассажной ванночки для ног в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="131" available="true">
+        <name>Ремонт ингалятора (небулайзера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ингалятора (небулайзера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="132" available="true">
+        <name>Ремонт аппарата CPAP (для сна)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата CPAP (для сна) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="133" available="true">
+        <name>Ремонт солярия домашнего</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт солярия домашнего в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="134" available="true">
+        <name>Ремонт лампы для фототерапии (SAD)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лампы для фототерапии (SAD) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="135" available="true">
+        <name>Ремонт аппарата для дарсонвализации</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для дарсонвализации в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="136" available="true">
+        <name>Ремонт лазерного эпилятора домашнего</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лазерного эпилятора домашнего в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="137" available="true">
+        <name>Ремонт фотоэпилятора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фотоэпилятора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="138" available="true">
+        <name>Ремонт аппарата для RF-лифтинга</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для RF-лифтинга в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="139" available="true">
+        <name>Ремонт ультразвукового скрабера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ультразвукового скрабера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="140" available="true">
+        <name>Ремонт аппарата для микротоков (косметического)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для микротоков (косметического) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="141" available="true">
+        <name>Ремонт поварёшки-стерилизатора УФ</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт поварёшки-стерилизатора УФ в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="142" available="true">
+        <name>Ремонт умного выключателя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного выключателя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="143" available="true">
+        <name>Ремонт умного диммера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного диммера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="144" available="true">
+        <name>Ремонт электрощита (домашнего)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрощита (домашнего) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="145" available="true">
+        <name>Ремонт стабилизатора напряжения</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт стабилизатора напряжения в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="146" available="true">
+        <name>Ремонт сетевого фильтра (пилота)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сетевого фильтра (пилота) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="147" available="true">
+        <name>Ремонт генератора бензинового</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт генератора бензинового в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="148" available="true">
+        <name>Ремонт инверторного генератора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт инверторного генератора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="149" available="true">
+        <name>Ремонт домофона аналогового</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт домофона аналогового в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="150" available="true">
+        <name>Ремонт видеодомофона</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт видеодомофона в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="151" available="true">
+        <name>Ремонт охранной сигнализации</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт охранной сигнализации в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="152" available="true">
+        <name>Ремонт датчика дыма</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт датчика дыма в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="153" available="true">
+        <name>Ремонт датчика угарного газа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт датчика угарного газа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="154" available="true">
+        <name>Ремонт датчика протечки воды</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт датчика протечки воды в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="155" available="true">
+        <name>Ремонт датчика движения (ИК)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт датчика движения (ИК) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="156" available="true">
+        <name>Ремонт сейфа электронного</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сейфа электронного в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="157" available="true">
+        <name>Ремонт швейной машины (электромеханической)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт швейной машины (электромеханической) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="158" available="true">
+        <name>Ремонт швейной машины (компьютеризированной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт швейной машины (компьютеризированной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="159" available="true">
+        <name>Ремонт оверлока</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт оверлока в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="160" available="true">
+        <name>Ремонт вышивальной машины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вышивальной машины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="161" available="true">
+        <name>Ремонт вязальной машины (электрической)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт вязальной машины (электрической) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="162" available="true">
+        <name>Ремонт электрической сушилки для обуви</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрической сушилки для обуви в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="163" available="true">
+        <name>Ремонт машинки для удаления катышков</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт машинки для удаления катышков в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="164" available="true">
+        <name>Ремонт полотера электрического</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт полотера электрического в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="165" available="true">
+        <name>Ремонт аппарата для чистки обуви</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аппарата для чистки обуви в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="166" available="true">
+        <name>Ремонт электрогрелки / электроодеяла</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электрогрелки / электроодеяла в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="167" available="true">
+        <name>Ремонт фонаря аккумуляторного</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фонаря аккумуляторного в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="168" available="true">
+        <name>Ремонт зарядного устройства для аккумуляторов</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт зарядного устройства для аккумуляторов в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="169" available="true">
+        <name>Ремонт дверного звонка (беспроводного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт дверного звонка (беспроводного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="170" available="true">
+        <name>Ремонт метеостанции домашней</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт метеостанции домашней в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="171" available="true">
+        <name>Ремонт цифровой фоторамки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт цифровой фоторамки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="172" available="true">
+        <name>Ремонт радиоприемника</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт радиоприемника в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="173" available="true">
+        <name>Ремонт музыкального центра</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт музыкального центра в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="174" available="true">
+        <name>Ремонт портативного DVD-плеера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт портативного DVD-плеера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="175" available="true">
+        <name>Ремонт шредера (уничтожителя бумаг) домашнего</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт шредера (уничтожителя бумаг) домашнего в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="176" available="true">
+        <name>Ремонт смартфона</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт смартфона в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="177" available="true">
+        <name>Ремонт ноутбука</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ноутбука в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="178" available="true">
+        <name>Ремонт планшета</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт планшета в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="179" available="true">
+        <name>Ремонт настольного компьютера (ПК)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт настольного компьютера (ПК) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="180" available="true">
+        <name>Ремонт смарт-телевизора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт смарт-телевизора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="181" available="true">
+        <name>Ремонт беспроводных наушников / TWS-гарнитуры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт беспроводных наушников / TWS-гарнитуры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="182" available="true">
+        <name>Ремонт умных часов (Смарт-часов)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умных часов (Смарт-часов) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="183" available="true">
+        <name>Ремонт фитнес-браслета</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фитнес-браслета в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="184" available="true">
+        <name>Ремонт игровой приставки (консоли)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт игровой приставки (консоли) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="185" available="true">
+        <name>Ремонт принтера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт принтера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="186" available="true">
+        <name>Ремонт МФУ (многофункционального устройства)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт МФУ (многофункционального устройства) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="187" available="true">
+        <name>Ремонт роутера (Wi-Fi маршрутизатора)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт роутера (Wi-Fi маршрутизатора) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="188" available="true">
+        <name>Ремонт внешнего жёсткого диска / SSD</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт внешнего жёсткого диска / SSD в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="189" available="true">
+        <name>Ремонт USB-флеш-накопителя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт USB-флеш-накопителя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="190" available="true">
+        <name>Ремонт цифровой фотокамеры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт цифровой фотокамеры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="191" available="true">
+        <name>Ремонт экшн-камеры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт экшн-камеры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="192" available="true">
+        <name>Ремонт веб-камеры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт веб-камеры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="193" available="true">
+        <name>Ремонт проектора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт проектора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="194" available="true">
+        <name>Ремонт электронной книги (e-reader)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электронной книги (e-reader) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="195" available="true">
+        <name>Ремонт портативной колонки (Bluetooth)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт портативной колонки (Bluetooth) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="196" available="true">
+        <name>Ремонт умной колонки (голосового помощника)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умной колонки (голосового помощника) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="197" available="true">
+        <name>Ремонт навигатора (GPS-устройства)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт навигатора (GPS-устройства) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="198" available="true">
+        <name>Ремонт видеорегистратора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт видеорегистратора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="199" available="true">
+        <name>Ремонт радар-детектора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт радар-детектора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="200" available="true">
+        <name>Ремонт цифровой видеокамеры</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт цифровой видеокамеры в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="201" available="true">
+        <name>Ремонт дрона (квадрокоптера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт дрона (квадрокоптера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="202" available="true">
+        <name>Ремонт VR-шлема (очков виртуальной реальности)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт VR-шлема (очков виртуальной реальности) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="203" available="true">
+        <name>Ремонт микрофона (конденсаторного / динамического)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт микрофона (конденсаторного / динамического) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="204" available="true">
+        <name>Ремонт звуковой карты (внешней)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт звуковой карты (внешней) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="205" available="true">
+        <name>Ремонт графического монитора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт графического монитора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="206" available="true">
+        <name>Ремонт монитора (ЖК / LED)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт монитора (ЖК / LED) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="207" available="true">
+        <name>Ремонт клавиатуры (механической / мембранной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт клавиатуры (механической / мембранной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="208" available="true">
+        <name>Ремонт компьютерной мыши (игровой / беспроводной)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт компьютерной мыши (игровой / беспроводной) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="209" available="true">
+        <name>Ремонт геймпада / джойстика</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт геймпада / джойстика в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="210" available="true">
+        <name>Ремонт руля для симуляторов</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт руля для симуляторов в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="211" available="true">
+        <name>Ремонт источника бесперебойного питания (ИБП / UPS)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт источника бесперебойного питания (ИБП / UPS) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="212" available="true">
+        <name>Ремонт серверного оборудования (базового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт серверного оборудования (базового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="213" available="true">
+        <name>Ремонт сетевого хранилища (NAS)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сетевого хранилища (NAS) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="214" available="true">
+        <name>Ремонт IP-камеры видеонаблюдения</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт IP-камеры видеонаблюдения в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="215" available="true">
+        <name>Ремонт видеорегистратора для систем наблюдения (NVR)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт видеорегистратора для систем наблюдения (NVR) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="216" available="true">
+        <name>Ремонт ТВ-приставки (Android TV / Apple TV)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ТВ-приставки (Android TV / Apple TV) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="217" available="true">
+        <name>Ремонт спутникового ресивера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт спутникового ресивера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="218" available="true">
+        <name>Ремонт усилителя звука (Hi-Fi)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт усилителя звука (Hi-Fi) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="219" available="true">
+        <name>Ремонт ресивера домашнего кинотеатра</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт ресивера домашнего кинотеатра в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="220" available="true">
+        <name>Ремонт саундбара</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт саундбара в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="221" available="true">
+        <name>Ремонт сабвуфера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сабвуфера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="222" available="true">
+        <name>Ремонт винилового проигрывателя (современного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт винилового проигрывателя (современного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="223" available="true">
+        <name>Ремонт CD/Blu-ray проигрывателя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт CD/Blu-ray проигрывателя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="224" available="true">
+        <name>Ремонт рации (портативной радиостанции)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт рации (портативной радиостанции) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="225" available="true">
+        <name>Ремонт эхолота</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт эхолота в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="226" available="true">
+        <name>Ремонт металлоискателя</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт металлоискателя в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="227" available="true">
+        <name>Ремонт лазерного уровня (нивелира)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лазерного уровня (нивелира) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="228" available="true">
+        <name>Ремонт лазерной рулетки (дальномера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лазерной рулетки (дальномера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="229" available="true">
+        <name>Ремонт тепловизора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт тепловизора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="230" available="true">
+        <name>Ремонт осциллографа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт осциллографа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="231" available="true">
+        <name>Ремонт мультиметра (цифрового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мультиметра (цифрового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="232" available="true">
+        <name>Ремонт лабораторного блока питания</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лабораторного блока питания в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="233" available="true">
+        <name>Ремонт паяльной станции</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт паяльной станции в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="234" available="true">
+        <name>Ремонт микроскопа (цифрового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт микроскопа (цифрового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="235" available="true">
+        <name>Ремонт телескопа (с электронным управлением)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт телескопа (с электронным управлением) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="236" available="true">
+        <name>Ремонт бинокля (с цифровым зумом)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт бинокля (с цифровым зумом) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="237" available="true">
+        <name>Ремонт фотопринтера портативного</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт фотопринтера портативного в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="238" available="true">
+        <name>Ремонт карманного проектора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт карманного проектора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="239" available="true">
+        <name>Ремонт мини-ПК (неттопа)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт мини-ПК (неттопа) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="240" available="true">
+        <name>Ремонт одноплатного компьютера (Raspberry Pi и др.)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт одноплатного компьютера (Raspberry Pi и др.) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="241" available="true">
+        <name>Ремонт графического планшета (для рисования)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт графического планшета (для рисования) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="242" available="true">
+        <name>Ремонт диктофона цифрового</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт диктофона цифрового в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="243" available="true">
+        <name>Ремонт цифрового микрофона</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт цифрового микрофона в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="244" available="true">
+        <name>Ремонт аудиоинтерфейса</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт аудиоинтерфейса в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="245" available="true">
+        <name>Ремонт MIDI-контроллера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт MIDI-контроллера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="246" available="true">
+        <name>Ремонт электронных весов (умных)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электронных весов (умных) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="247" available="true">
+        <name>Ремонт умного тонометра</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного тонометра в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="248" available="true">
+        <name>Ремонт умного глюкометра</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного глюкометра в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="249" available="true">
+        <name>Ремонт пульсоксиметра (цифрового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт пульсоксиметра (цифрового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="250" available="true">
+        <name>Ремонт цифрового термометра</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт цифрового термометра в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="251" available="true">
+        <name>Ремонт электронного стетоскопа</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электронного стетоскопа в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="252" available="true">
+        <name>Ремонт медицинского УЗИ-сканера (портативного)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт медицинского УЗИ-сканера (портативного) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="253" available="true">
+        <name>Ремонт портативного ЭКГ-монитора</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт портативного ЭКГ-монитора в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="254" available="true">
+        <name>Ремонт умного холодильника</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного холодильника в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="255" available="true">
+        <name>Ремонт умной стиральной машины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умной стиральной машины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="256" available="true">
+        <name>Ремонт умной микроволновой печи</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умной микроволновой печи в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="257" available="true">
+        <name>Ремонт умной мультиварки</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умной мультиварки в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="258" available="true">
+        <name>Ремонт умного робота-пылесоса</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного робота-пылесоса в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="259" available="true">
+        <name>Ремонт умной кофемашины</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умной кофемашины в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="260" available="true">
+        <name>Ремонт лазерного гравера (CNC)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт лазерного гравера (CNC) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="261" available="true">
+        <name>Ремонт 3D-принтера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт 3D-принтера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="262" available="true">
+        <name>Ремонт 3D-сканера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт 3D-сканера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="263" available="true">
+        <name>Ремонт плоттера (режущего)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт плоттера (режущего) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="264" available="true">
+        <name>Ремонт документ-сканера</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт документ-сканера в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="265" available="true">
+        <name>Ремонт сканера штрих-кодов</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт сканера штрих-кодов в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="266" available="true">
+        <name>Ремонт POS-терминала</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт POS-терминала в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="267" available="true">
+        <name>Ремонт контрольно-кассовой техники (ККТ)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт контрольно-кассовой техники (ККТ) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="268" available="true">
+        <name>Ремонт электронной метки (AirTag и аналоги)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт электронной метки (AirTag и аналоги) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="269" available="true">
+        <name>Ремонт умного ошейника для животных</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного ошейника для животных в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="270" available="true">
+        <name>Ремонт автоматической кормушки с Wi-Fi</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт автоматической кормушки с Wi-Fi в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="271" available="true">
+        <name>Ремонт умного дверного замка (биометрического)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного дверного замка (биометрического) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="272" available="true">
+        <name>Ремонт видеоглазка (цифрового)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт видеоглазка (цифрового) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="273" available="true">
+        <name>Ремонт детской видеоняни (цифровой)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт детской видеоняни (цифровой) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="274" available="true">
+        <name>Ремонт умного карниза для штор</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного карниза для штор в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+      <offer id="275" available="true">
+        <name>Ремонт умного спидометра (OBD-адаптера)</name>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <delivery>false</delivery>
+        <pickup>true</pickup>
+        <description>Профессиональный ремонт умного спидометра (OBD-адаптера) в сервисном центре Ремсити36. Качественные запчасти, гарантия на работу, выезд мастера.</description>
+        <param name="Тип услуги">Ремонт и обслуживание</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
