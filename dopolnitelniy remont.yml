@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-04-30 13:15">
+  <shop>
+    <name>Ремонт техники</name>
+    <company>Сервисный центр</company>
+    <url>https://yandex.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3">Дополнительные виды ремонта</category>
+    </categories>
+    <offers>
+      <offer id="3001" available="true">
+        <name>Ремонт Моноблоков</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Моноблоков</description>
+      </offer>
+      <offer id="3002" available="true">
+        <name>Ремонт Стоматологического оборудования</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Стоматологического оборудования</description>
+      </offer>
+      <offer id="3003" available="true">
+        <name>Ремонт Светодиодных люстр</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Светодиодных люстр</description>
+      </offer>
+      <offer id="3004" available="true">
+        <name>Ремонт Торшеров</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Торшеров</description>
+      </offer>
+      <offer id="3005" available="true">
+        <name>Ремонт Пароконвектомата</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Пароконвектомата</description>
+      </offer>
+      <offer id="3006" available="true">
+        <name>Ремонт Су-вид</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Су-вид</description>
+      </offer>
+      <offer id="3007" available="true">
+        <name>Ремонт Индукционных нагревателей</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Индукционных нагревателей</description>
+      </offer>
+      <offer id="3008" available="true">
+        <name>Ремонт Динамиков</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Динамиков</description>
+      </offer>
+      <offer id="3009" available="true">
+        <name>Ремонт Магнитофонов</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Магнитофонов</description>
+      </offer>
+      <offer id="3010" available="true">
+        <name>Ремонт Яндекс станций</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Яндекс станций</description>
+      </offer>
+      <offer id="3011" available="true">
+        <name>Ремонт Пуско-зарядных устройств</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Пуско-зарядных устройств</description>
+      </offer>
+      <offer id="3012" available="true">
+        <name>Ремонт Видеокарт</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Видеокарт</description>
+      </offer>
+      <offer id="3013" available="true">
+        <name>Ремонт Ретрансляторов</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Ретрансляторов</description>
+      </offer>
+      <offer id="3014" available="true">
+        <name>Ремонт Паяльных станций</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Паяльных станций</description>
+      </offer>
+      <offer id="3015" available="true">
+        <name>Ремонт Споттеров</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Споттеров</description>
+      </offer>
+      <offer id="3016" available="true">
+        <name>Ремонт Реноватора</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Реноватора</description>
+      </offer>
+      <offer id="3017" available="true">
+        <name>Ремонт Детских игрушек</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Детских игрушек</description>
+      </offer>
+      <offer id="3018" available="true">
+        <name>Ремонт Аккумуляторов электротранспорта</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Аккумуляторов электротранспорта</description>
+      </offer>
+      <offer id="3019" available="true">
+        <name>Ремонт Ультразвуковой ванны</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Ультразвуковой ванны</description>
+      </offer>
+      <offer id="3020" available="true">
+        <name>Ремонт Домашних планетариев</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Домашних планетариев</description>
+      </offer>
+      <offer id="3021" available="true">
+        <name>Ремонт Инкубаторов</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Инкубаторов</description>
+      </offer>
+      <offer id="3022" available="true">
+        <name>Ремонт Детектора Дронов</name>
+        <categoryId>3</categoryId>
+        <price>500</price>
+        <currencyId>RUR</currencyId>
+        <description>Ремонт Детектора Дронов</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
