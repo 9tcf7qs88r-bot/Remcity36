@@ -3,7 +3,7 @@
   <shop>
     <name>Ремсити36</name>
     <company>Сервисный центр Ремсити36</company>
-    <url>https://remsity36.ru</url>
+    <url>https://remcity36.ru</url>
     <currencies><currency id="RUR" rate="1"/></currencies>
     <categories><category id="1">Услуги по ремонту</category></categories>
     <offers>
@@ -2961,4 +2961,10 @@
         <categoryId>1</categoryId>
         <description>Профессиональный ремонт детектора дрона в Воронеже. Гарантия, опытные мастера, качественные комплектующие.</description>
       </offer>
-    </offers></shop></yml_catalog>
+      <offer id="423" available="true">
+        <name>Ремонт бытовой техники</name>
+        <price>300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <description>Профессиональный ремонт бытовой техники в Воронеже. Гарантия после ремонта, быстрая диагностика, разумные цены.</description>
+      </offers></shop></yml_catalog>
